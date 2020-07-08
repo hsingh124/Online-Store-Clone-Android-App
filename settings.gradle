@@ -1,0 +1,2 @@
+rootProject.name='Phone Store'
+include ':app'
